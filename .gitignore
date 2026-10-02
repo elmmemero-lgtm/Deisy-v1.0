@@ -1,0 +1,10 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+*.bak*
+copia_base_Deisy.sql
+codigo_completo_deisy.txt
+perfil_eddie.txt
+estado_*.json
+recordatorios.json
